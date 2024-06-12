@@ -1,0 +1,10 @@
+﻿  Cryptor.cpp
+d:\projects\c++\wpgeditor\wpgeditor\cryptor.cpp(471): warning C4101: 'result': unreferenced local variable
+  WPG.cpp
+d:\projects\c++\wpgeditor\wpgeditor\wpg.cpp(176): warning C4018: '<': signed/unsigned mismatch
+d:\projects\c++\wpgeditor\wpgeditor\wpg.cpp(333): warning C4018: '<': signed/unsigned mismatch
+  WPGEditor.cpp
+WPG.obj : error LNK2001: unresolved external symbol __imp_uncompress
+WPG.obj : error LNK2001: unresolved external symbol __imp_compress
+WPG.obj : error LNK2001: unresolved external symbol __imp_compressBound
+D:\Projects\C++\WPGEditor\x64\Release\WPGEditor.exe : fatal error LNK1120: 3 unresolved externals
